@@ -52,3 +52,16 @@
     background-position: center center;
     box-shadow: inset 0px -90px 50px 20px rgba(0, 0, 0,0.9), inset 0px 0px 0px 0px rgba(0, 0, 0,0.0);
 }
+
+/* About Banner css Section */
+
+.bgImage{
+    background-image: url(./images/family.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    padding: 12%;
+    box-shadow: inset 5px 5px 300px 100px black;
+    /* background-attachment: fixed; */
+}

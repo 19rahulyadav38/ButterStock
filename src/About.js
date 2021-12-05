@@ -1,4 +1,5 @@
 import React from "react";
+import AboutBanner from "./AboutBanner";
 import NavBar from "./NavBar";
 import TopNav from "./TopNav";
 
@@ -7,6 +8,7 @@ function About(){
         <div>
             <TopNav/>
             <NavBar/>
+            <AboutBanner/>
         </div>
     );
 }

@@ -20,6 +20,7 @@ function NavBar(){
 	const[isOpen,setOpen]=useState(true);
 	function navShow(){
 		setOpen(!isOpen)
+		
 	   	
 	}
     return(
